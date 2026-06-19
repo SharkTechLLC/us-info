@@ -1,0 +1,11 @@
+{
+  "updated_at": "2026-06-16",
+  "code": "DE",
+  "data_version": 1,
+  "audio_base_url": "https://raw.githubusercontent.com/SharkTechLLC/us-info/main/state_officials/de",
+  "governor": "Matt Meyer",
+  "senators": [
+    "Chris A. Coons",
+    "Lisa Blunt Rochester"
+  ]
+}
