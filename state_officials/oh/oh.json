@@ -1,0 +1,11 @@
+{
+  "updated_at": "2026-06-16",
+  "code": "OH",
+  "data_version": 1,
+  "audio_base_url": "https://raw.githubusercontent.com/SharkTechLLC/us-info/main/state_officials/oh",
+  "governor": "Mike DeWine",
+  "senators": [
+    "Bernie Moreno",
+    "Jon Husted"
+  ]
+}
