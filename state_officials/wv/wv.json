@@ -1,0 +1,11 @@
+{
+  "updated_at": "2026-06-16",
+  "code": "WV",
+  "data_version": 1,
+  "audio_base_url": "https://raw.githubusercontent.com/SharkTechLLC/us-info/main/state_officials/wv",
+  "governor": "Patrick Morrisey",
+  "senators": [
+    "Jim Justice",
+    "Shelley Moore Capito"
+  ]
+}
