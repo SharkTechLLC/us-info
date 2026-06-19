@@ -8,31 +8,38 @@ for federal/government officials (e.g. president) in the future.
 
 ## Layout
 
+One self-contained folder per record — JSON + its audio files live together,
+so the app (and your generator) only ever deals with a single location per
+state:
+
 ```
-data/
-  state_officials/
-    al.json, ak.json, ... (one per state, lowercase 2-letter code)
-  government_officials/
-    (reserved for future use, e.g. president.json)
-audio/
-  state_officials/
-    al/governor_en.mp3, governor_es.mp3, senators_en.mp3, senators_es.mp3,
-       capital_en.mp3, capital_es.mp3
-    ak/...
-  government_officials/
-    (reserved for future use)
+state_officials/
+  al/
+    al.json
+    governor_en.mp3
+    governor_es.mp3
+    senators_en.mp3
+    senators_es.mp3
+    capital_en.mp3
+    capital_es.mp3
+  ak/
+    ak.json
+    ... (same 6 audio files)
+  ... (50 folders, lowercase 2-letter code)
+government_officials/
+  (reserved for future use, e.g. president/president.json + audio)
 ```
 
-## `data/state_officials/<code>.json` schema
+## `<code>.json` schema
 
 ```json
 {
   "code": "AL",
   "data_version": 1,
   "verified_at": "2026-06-19",
-  "capital": "Montgomery",
   "governor": "Kay Ivey",
-  "senators": ["Katie Britt", "Tommy Tuberville"]
+  "senators": ["Katie Britt", "Tommy Tuberville"],
+  "capital": "Montgomery"
 }
 ```
 
@@ -44,10 +51,10 @@ audio/
 - `capital` is optional — the app already bundles a static state→capital
   list, so it's only useful here if you want this repo to be the single
   source of truth. If omitted, the app keeps its bundled value.
-- Audio file names are fixed within each state's folder: `governor_en.mp3`,
+- All 6 audio files are required per state folder: `governor_en.mp3`,
   `governor_es.mp3`, `senators_en.mp3`, `senators_es.mp3`, `capital_en.mp3`,
-  `capital_es.mp3` — all 6 are required, since the app's civics questions
-  cover governor, senators, *and* capital.
+  `capital_es.mp3` — the app's civics questions cover governor, senators,
+  *and* capital.
 
 ## What's NOT covered here
 
