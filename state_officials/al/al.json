@@ -1,0 +1,11 @@
+{
+  "updated_at": "2026-06-16",
+  "code": "AL",
+  "data_version": 1,
+  "audio_base_url": "https://raw.githubusercontent.com/SharkTechLLC/us-info/main/state_officials/al",
+  "governor": "Kay Ivey",
+  "senators": [
+    "Katie Britt",
+    "Tommy Tuberville"
+  ]
+}
