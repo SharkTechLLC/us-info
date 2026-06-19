@@ -1,0 +1,11 @@
+{
+  "updated_at": "2026-06-16",
+  "code": "NH",
+  "data_version": 2,
+  "audio_base_url": "https://raw.githubusercontent.com/SharkTechLLC/us-info/main/state_officials/nh",
+  "governor": "Kelly Ayotte",
+  "senators": [
+    "Jeanne Shaheen",
+    "Marggie Hassan"
+  ]
+}
