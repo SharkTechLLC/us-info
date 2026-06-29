@@ -1,0 +1,152 @@
+[
+  {
+    "id": 76,
+    "reading_prompt": "What did the Emancipation Proclamation accomplish during the war?",
+    "writing_sentence": "The Emancipation Proclamation freed slaves in the Southern states.",
+    "category": "sentence_practice"
+  },
+  {
+    "id": 77,
+    "reading_prompt": "What is the capital city of your state?",
+    "writing_sentence": "The capital city varies depending on where you reside.",
+    "category": "sentence_practice"
+  },
+  {
+    "id": 78,
+    "reading_prompt": "What are the two parts of the United States Congress?",
+    "writing_sentence": "The Senate and House of Representatives make up Congress.",
+    "category": "sentence_practice"
+  },
+  {
+    "id": 79,
+    "reading_prompt": "Who is the Commander in Chief of the United States military?",
+    "writing_sentence": "The President is the Commander in Chief of the military.",
+    "category": "sentence_practice"
+  },
+  {
+    "id": 80,
+    "reading_prompt": "What is the head executive of a state government called?",
+    "writing_sentence": "The head executive of a state government is the Governor.",
+    "category": "sentence_practice"
+  },
+  {
+    "id": 81,
+    "reading_prompt": "What is the supreme judicial body in the United States?",
+    "writing_sentence": "The Supreme Court is the highest court in the United States.",
+    "category": "sentence_practice"
+  },
+  {
+    "id": 82,
+    "reading_prompt": "What stops one branch of government from becoming too powerful?",
+    "writing_sentence": "Checks and balances stop one branch from becoming too powerful.",
+    "category": "sentence_practice"
+  },
+  {
+    "id": 83,
+    "reading_prompt": "Who is in charge of the executive branch of government?",
+    "writing_sentence": "The President is in charge of the executive branch.",
+    "category": "sentence_practice"
+  },
+  {
+    "id": 84,
+    "reading_prompt": "What is one promise you make when you become a United States citizen?",
+    "writing_sentence": "I promise to be loyal to the United States of America.",
+    "category": "sentence_practice"
+  },
+  {
+    "id": 85,
+    "reading_prompt": "How old do citizens have to be to vote for President?",
+    "writing_sentence": "Citizens must be 18 and older to vote for President.",
+    "category": "sentence_practice"
+  },
+  {
+    "id": 86,
+    "reading_prompt": "What are two ways that Americans can participate in their democracy?",
+    "writing_sentence": "Americans can participate by voting and joining a political party.",
+    "category": "sentence_practice"
+  },
+  {
+    "id": 87,
+    "reading_prompt": "When is the last day you can send in federal income tax forms?",
+    "writing_sentence": "The last day to file federal income taxes is April 15th.",
+    "category": "sentence_practice"
+  },
+  {
+    "id": 88,
+    "reading_prompt": "Who was the president during World War One?",
+    "writing_sentence": "Woodrow Wilson was the president during World War One.",
+    "category": "sentence_practice"
+  },
+  {
+    "id": 89,
+    "reading_prompt": "Who was the president during the Great Depression and World War Two?",
+    "writing_sentence": "Franklin D. Roosevelt was president during World War Two.",
+    "category": "sentence_practice"
+  },
+  {
+    "id": 90,
+    "reading_prompt": "Who did the United States fight against in World War Two?",
+    "writing_sentence": "The United States fought Japan, Germany, and Italy in World War Two.",
+    "category": "sentence_practice"
+  },
+  {
+    "id": 91,
+    "reading_prompt": "Before he was president, Eisenhower was a general in which war?",
+    "writing_sentence": "Eisenhower was a famous general in World War Two.",
+    "category": "sentence_practice"
+  },
+  {
+    "id": 92,
+    "reading_prompt": "During the Cold War, what was the main concern of the United States?",
+    "writing_sentence": "The spread of communism was the main concern during the Cold War.",
+    "category": "sentence_practice"
+  },
+  {
+    "id": 93,
+    "reading_prompt": "What movement tried to end racial discrimination in the United States?",
+    "writing_sentence": "The civil rights movement tried to end racial discrimination.",
+    "category": "sentence_practice"
+  },
+  {
+    "id": 94,
+    "reading_prompt": "What major event happened on September 11, 2001, in the United States?",
+    "writing_sentence": "Terrorists attacked the United States on September 11, 2001.",
+    "category": "sentence_practice"
+  },
+  {
+    "id": 95,
+    "reading_prompt": "Name one American Indian tribe indigenous to the United States.",
+    "writing_sentence": "The Cherokee are an American Indian tribe in the United States.",
+    "category": "sentence_practice"
+  },
+  {
+    "id": 96,
+    "reading_prompt": "What are the two longest rivers located in the United States?",
+    "writing_sentence": "The Mississippi and Missouri rivers are the longest in the country.",
+    "category": "sentence_practice"
+  },
+  {
+    "id": 97,
+    "reading_prompt": "What is the name of the United States national anthem?",
+    "writing_sentence": "The Star-Spangled Banner is the United States national anthem.",
+    "category": "sentence_practice"
+  },
+  {
+    "id": 98,
+    "reading_prompt": "Why does the American flag have 50 stars on it?",
+    "writing_sentence": "The flag has 50 stars because there is one star for each state.",
+    "category": "sentence_practice"
+  },
+  {
+    "id": 99,
+    "reading_prompt": "Why does the American flag have 13 stripes on it?",
+    "writing_sentence": "The flag has 13 stripes to represent the original 13 colonies.",
+    "category": "sentence_practice"
+  },
+  {
+    "id": 100,
+    "reading_prompt": "What is the name of the statue located in New York Harbor?",
+    "writing_sentence": "The Statue of Liberty is located in New York Harbor.",
+    "category": "sentence_practice"
+  }
+]
