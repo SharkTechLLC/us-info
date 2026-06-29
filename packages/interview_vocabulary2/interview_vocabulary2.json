@@ -1,0 +1,352 @@
+[
+  {
+    "id": 50,
+    "word": "illegal gambling",
+    "synonym": "playing games for cash in a way that breaks local laws",
+    "sentence": "Have you ever made a living from illegal gambling?",
+    "equivalent_sentence": "Have you ever made a living from playing games for cash in a way that breaks local laws?",
+    "audio_file": "illegal_gambling_en.mp3",
+    "choices": [
+      "Have you ever bought a traditional lottery ticket at a supermarket?",
+      "Have you ever made a living from playing games for cash in a way that breaks local laws?",
+      "Did you lose your confirmation code text message during your travel stay?"
+    ],
+    "correct_index": 1
+  },
+  {
+    "id": 51,
+    "word": "support your dependent",
+    "synonym": "to pay child support or financial help to your kids",
+    "sentence": "Have you ever failed to support your dependents?",
+    "equivalent_sentence": "Have you ever failed to pay child support or financial help to your kids?",
+    "audio_file": "support_your_dependent_en.mp3",
+    "choices": [
+      "Have you ever failed to pay child support or financial help to your kids?",
+      "Did you bring your child's original biological birth records today?",
+      "Have you ever modified your digital profile details array settings?"
+    ],
+    "correct_index": 0
+  },
+  {
+    "id": 52,
+    "word": "pay alimony",
+    "synonym": "to give money regularly to a former spouse after a divorce",
+    "sentence": "Do you have an obligation to pay alimony?",
+    "equivalent_sentence": "Do you have an obligation to give money regularly to a former spouse after a divorce?",
+    "audio_file": "pay_alimony_en.mp3",
+    "choices": [
+      "Did you bring official certified copies of your wedding termination documents?",
+      "Do you have an obligation to give money regularly to a former spouse after a divorce?",
+      "Have you ever requested a formal tracking form for name change timelines?"
+    ],
+    "correct_index": 1
+  },
+  {
+    "id": 53,
+    "word": "misrepresentation",
+    "synonym": "lying about who you are or what you have done",
+    "sentence": "The case was denied because of a severe misrepresentation.",
+    "equivalent_sentence": "The case was denied because of severe lying about who you are or what you have done.",
+    "audio_file": "misrepresentation_en.mp3",
+    "choices": [
+      "The file was delayed because the touch screen system experienced a crash down.",
+      "The case was denied because of severe lying about who you are or what you have done.",
+      "The processing was completed smoothly by the regional operations manager."
+    ],
+    "correct_index": 1
+  },
+  {
+    "id": 54,
+    "word": "public benefit",
+    "synonym": "government assistance like food stamps or cash aid",
+    "sentence": "Have you ever lied to receive a public benefit in the US?",
+    "equivalent_sentence": "Have you ever lied to receive government assistance like food stamps or cash aid in the US?",
+    "audio_file": "public_benefit_en.mp3",
+    "choices": [
+      "Have you ever submitted tax documentation below the mandatory threshold limit?",
+      "Have you ever volunteered at a disaster rescue shelter center as a civilian?",
+      "Have you ever lied to receive government assistance like food stamps or cash aid in the US?"
+    ],
+    "correct_index": 2
+  },
+  {
+    "id": 55,
+    "word": "fraudulent",
+    "synonym": "deceptive dishonest or containing fake information",
+    "sentence": "The paperwork turned out to be completely fraudulent.",
+    "equivalent_sentence": "The paperwork turned out to be completely deceptive dishonest or containing fake information.",
+    "audio_file": "fraudulent_en.mp3",
+    "choices": [
+      "The paperwork turned out to be completely deceptive dishonest or containing fake information.",
+      "The historical certificates were audited by a senior validation clerk.",
+      "The target writing sequence matched every single spelling verification rule."
+    ],
+    "correct_index": 0
+  },
+  {
+    "id": 56,
+    "word": "lie",
+    "synonym": "to intentionally say things that are completely untrue",
+    "sentence": "It is a direct violation to lie to an immigration officer.",
+    "equivalent_sentence": "It is a direct violation to intentionally say things that are completely untrue to an immigration officer.",
+    "audio_file": "lie_en.mp3",
+    "choices": [
+      "It is highly recommended to study the branches of government before your test.",
+      "It is standard practice to ask an officer to repeat a text string slowly.",
+      "It is a direct violation to intentionally say things that are completely untrue to an immigration officer."
+    ],
+    "correct_index": 2
+  },
+  {
+    "id": 57,
+    "word": "deported",
+    "synonym": "forced by the government to leave the United States",
+    "sentence": "Have you ever been deported from this country?",
+    "equivalent_sentence": "Have you ever been forced by the government to leave the United States?",
+    "audio_file": "deported_en.mp3",
+    "choices": [
+      "Have you ever been forced by the government to leave the United States?",
+      "Have you ever extended a valid travel itinerary while staying abroad?",
+      "Did you complete your background profile mapping at the window on time?"
+    ],
+    "correct_index": 0
+  },
+  {
+    "id": 58,
+    "word": "constitution",
+    "synonym": "the supreme law and foundational framework of the land",
+    "sentence": "Do you support the Constitution of the United States?",
+    "equivalent_sentence": "Do you support the supreme law and foundational framework of the land?",
+    "audio_file": "constitution_en.mp3",
+    "choices": [
+      "Do you know the exact names of the original thirteen colonial settlements?",
+      "Do you support the supreme law and foundational framework of the land?",
+      "Are you prepared to type out your entire first name in capital boxes?"
+    ],
+    "correct_index": 1
+  },
+  {
+    "id": 59,
+    "word": "republic",
+    "synonym": "a form of government led by elected citizen representatives",
+    "sentence": "The United States form of government is a republic.",
+    "equivalent_sentence": "The United States form of government is led by elected citizen representatives.",
+    "audio_file": "republic_en.mp3",
+    "choices": [
+      "The United States form of government is led by a singular hereditary ruler.",
+      "The United States form of government allows local states to print money.",
+      "The United States form of government is led by elected citizen representatives."
+    ],
+    "correct_index": 2
+  },
+  {
+    "id": 60,
+    "word": "oath of allegiance to the united states",
+    "synonym": "a formal promise to be completely loyal to the country",
+    "sentence": "Are you ready to take the full Oath of Allegiance?",
+    "equivalent_sentence": "Are you ready to take a formal promise to be completely loyal to the country?",
+    "audio_file": "oath_of_allegiance_en.mp3",
+    "choices": [
+      "Are you ready to take a formal promise to be completely loyal to the country?",
+      "Did you track your exact term lengths for the House of Representatives?",
+      "Can you confirm that your domestic tax balance registry is completely zero?"
+    ],
+    "correct_index": 0
+  },
+  {
+    "id": 61,
+    "word": "bear arms on behalf of the united states",
+    "synonym": "to use weapon systems to defend the country during war",
+    "sentence": "Are you willing to bear arms on behalf of the United States?",
+    "equivalent_sentence": "Are you willing to use weapon systems to defend the country during war?",
+    "audio_file": "bear_arms_en.mp3",
+    "choices": [
+      "Are you willing to complete a residential status confirmation loop?",
+      "Are you willing to use weapon systems to defend the country during war?",
+      "Can you verify that your civil certificates have been signed cleanly?"
+    ],
+    "correct_index": 1
+  },
+  {
+    "id": 62,
+    "word": "perform non-combatant services",
+    "synonym": "do non-fighting military work like nursing cooking or translation",
+    "sentence": "If required, will you perform non-combatant services?",
+    "equivalent_sentence": "If required, will you do non-fighting military work like nursing cooking or translation?",
+    "audio_file": "perform_non_combatant_services_en.mp3",
+    "choices": [
+      "If required, will you do non-fighting military work like nursing cooking or translation?",
+      "If asked, can you pick alternative options inside an interactive deck?",
+      "Can you count how many times a target keyword was spoken on screen?"
+    ],
+    "correct_index": 0
+  },
+  {
+    "id": 63,
+    "word": "civilian",
+    "synonym": "any individual who is not a member of the active military",
+    "sentence": "He left the military forces and became a civilian.",
+    "equivalent_sentence": "He left the military forces and became an individual who is not a member of the active military.",
+    "audio_file": "civilian_en.mp3",
+    "choices": [
+      "He left the military forces and worked as an authorized customs guard.",
+      "He left the military forces and became an individual who is not a member of the active military.",
+      "He filed a formal legal amendment form regarding his biological child."
+    ],
+    "correct_index": 1
+  },
+  {
+    "id": 64,
+    "word": "perform work of national importance under civilian direction",
+    "synonym": "do critical non-military crisis work like helping the red cross",
+    "sentence": "Are you willing to perform work of national importance under civilian direction?",
+    "equivalent_sentence": "Are you willing to do critical non-military crisis work like helping the red cross?",
+    "audio_file": "perform_work_of_national_importance_en.mp3",
+    "choices": [
+      "Are you willing to settle an unfiled tax balance registry via installments?",
+      "Are you willing to do critical non-military crisis work like helping the red cross?",
+      "Can you identify which original states start with the word 'New'?"
+    ],
+    "correct_index": 1
+  },
+  {
+    "id": 65,
+    "word": "engage, engaged",
+    "synonym": "take part, took part",
+    "sentence": "Have you ever engaged in or planned to engage in an illegal activity?",
+    "equivalent_sentence": "Have you ever taken part in or planned to take part in an activity that breaks the law?",
+    "audio_file": "engage_engaged_en.mp3",
+    "choices": [
+      "Have you ever taken part in or planned to take part in an activity that breaks the law?",
+      "Have you ever planned to volunteer for a community activity?",
+      "Have you ever taken part in a lawful public meeting?"
+    ],
+    "correct_index": 0
+  },
+  {
+    "id": 66,
+    "word": "threatened",
+    "synonym": "said you would harm someone",
+    "sentence": "Have you ever threatened to use weapons or explosives to harm another person?",
+    "equivalent_sentence": "Have you ever said you would use weapons or explosives to harm another person?",
+    "audio_file": "threatened_en.mp3",
+    "choices": [
+      "Have you ever safely stored equipment that belonged to another person?",
+      "Have you ever said you would use weapons or explosives to harm another person?",
+      "Have you ever reported a dangerous object to the police?"
+    ],
+    "correct_index": 1
+  },
+  {
+    "id": 67,
+    "word": "unlawful assaulting or killing",
+    "synonym": "illegally attacking or causing the death of someone",
+    "sentence": "Have you ever participated in unlawfully assaulting or killing any government officer?",
+    "equivalent_sentence": "Have you ever taken part in illegally attacking or causing the death of any government officer?",
+    "audio_file": "unlawful_assaulting_or_killing_en.mp3",
+    "choices": [
+      "Have you ever taken part in illegally attacking or causing the death of any government officer?",
+      "Have you ever disagreed with a government officer during a public meeting?",
+      "Have you ever helped a government officer during an emergency?"
+    ],
+    "correct_index": 0
+  },
+  {
+    "id": 68,
+    "word": "injure, injured, injuring",
+    "synonym": "hurt, harmed, hurting",
+    "sentence": "Have you ever intentionally and severely injured any person, or ordered someone else to do so?",
+    "equivalent_sentence": "Have you ever intentionally and seriously hurt any person, or ordered someone else to do so?",
+    "audio_file": "injure_injured_injuring_en.mp3",
+    "choices": [
+      "Have you ever helped a seriously injured person receive medical care?",
+      "Have you ever accidentally hurt yourself while working?",
+      "Have you ever intentionally and seriously hurt any person, or ordered someone else to do so?"
+    ],
+    "correct_index": 2
+  },
+  {
+    "id": 69,
+    "word": "political opinion",
+    "synonym": "a belief or view about government and politics",
+    "sentence": "Have you ever caused harm to anyone because of their political opinion?",
+    "equivalent_sentence": "Have you ever harmed anyone because of their belief or view about government and politics?",
+    "audio_file": "political_opinion_en.mp3",
+    "choices": [
+      "Have you ever discussed a political issue with another person?",
+      "Have you ever harmed anyone because of their belief or view about government and politics?",
+      "Have you ever changed your own opinion about a government policy?"
+    ],
+    "correct_index": 1
+  },
+  {
+    "id": 70,
+    "word": "armed group",
+    "synonym": "an organized group whose members carry weapons",
+    "sentence": "Have you ever served in any armed group?",
+    "equivalent_sentence": "Have you ever served in an organized group whose members carry weapons?",
+    "audio_file": "armed_group_en.mp3",
+    "choices": [
+      "Have you ever served in an organized group whose members carry weapons?",
+      "Have you ever joined a neighborhood sports group?",
+      "Have you ever worked for an unarmed volunteer organization?"
+    ],
+    "correct_index": 0
+  },
+  {
+    "id": 71,
+    "word": "self-defense",
+    "synonym": "protecting yourself or others from harm",
+    "sentence": "Have you ever served in a self-defense unit?",
+    "equivalent_sentence": "Have you ever served in a unit formed to protect its members or others from harm?",
+    "audio_file": "self_defense_en.mp3",
+    "choices": [
+      "Have you ever served in a unit formed to protect its members or others from harm?",
+      "Have you ever taken a personal safety class?",
+      "Have you ever worked in a hospital emergency unit?"
+    ],
+    "correct_index": 0
+  },
+  {
+    "id": 72,
+    "word": "vigilante",
+    "synonym": "a person who tries to enforce the law without legal authority",
+    "sentence": "Have you ever been part of a vigilante unit?",
+    "equivalent_sentence": "Have you ever been part of a unit that tried to enforce the law without legal authority?",
+    "audio_file": "vigilante_en.mp3",
+    "choices": [
+      "Have you ever been part of an authorized police department?",
+      "Have you ever watched over a neighbor's home while they traveled?",
+      "Have you ever been part of a unit that tried to enforce the law without legal authority?"
+    ],
+    "correct_index": 2
+  },
+  {
+    "id": 73,
+    "word": "enlisted",
+    "synonym": "recruited or persuaded someone to join or help",
+    "sentence": "Have you ever enlisted someone to help in an armed group?",
+    "equivalent_sentence": "Have you ever recruited or persuaded someone to help in a group whose members carry weapons?",
+    "audio_file": "enlisted_en.mp3",
+    "choices": [
+      "Have you ever recruited or persuaded someone to help in a group whose members carry weapons?",
+      "Have you ever asked someone to help with a community project?",
+      "Have you ever encouraged someone to apply for a lawful job?"
+    ],
+    "correct_index": 0
+  },
+  {
+    "id": 74,
+    "word": "assassination",
+    "synonym": "the planned killing of an important or public person",
+    "sentence": "Have you ever participated in an assassination?",
+    "equivalent_sentence": "Have you ever taken part in the planned killing of an important or public person?",
+    "audio_file": "assassination_en.mp3",
+    "choices": [
+      "Have you ever attended a public event with an important person?",
+      "Have you ever taken part in the planned killing of an important or public person?",
+      "Have you ever voted against a public official in an election?"
+    ],
+    "correct_index": 1
+  }
+]

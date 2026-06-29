@@ -1,0 +1,352 @@
+[
+  {
+    "id": 25,
+    "word": "anywhere in the world at any time",
+    "synonym": "in any country and at any period in your life",
+    "sentence": "Have you ever committed a crime anywhere in the world at any time?",
+    "equivalent_sentence": "Have you ever committed a crime in any country and at any period in your life?",
+    "audio_file": "anywhere_in_the_world_at_any_time_en.mp3",
+    "choices": [
+      "Have you ever brought civil documents to your regional testing window?",
+      "Have you ever committed a crime in any country and at any period in your life?",
+      "Have you ever traveled on a multi-destination vacation with your parents?"
+    ],
+    "correct_index": 1
+  },
+  {
+    "id": 26,
+    "word": "claim to be a US citizen",
+    "synonym": "to say you are a US citizen falsely",
+    "sentence": "Have you ever claimed to be a US citizen?",
+    "equivalent_sentence": "Have you ever said you are a US citizen falsely?",
+    "audio_file": "claim_to_be_a_us_citizen_en.mp3",
+    "choices": [
+      "Have you ever said you are a US citizen falsely?",
+      "Have you ever wanted to apply for an official United States passport?",
+      "Have you ever voted in a local city, county, or state election?"
+    ],
+    "correct_index": 0
+  },
+  {
+    "id": 27,
+    "word": "register to vote",
+    "synonym": "sign up to choose a political leader",
+    "sentence": "Have you ever registered to vote in any election?",
+    "equivalent_sentence": "Have you ever signed up to choose a political leader?",
+    "audio_file": "register_to_vote_en.mp3",
+    "choices": [
+      "Have you ever helped a neighbor move their belongings to a new home?",
+      "Have you ever talked to an officer about updating your current address?",
+      "Have you ever signed up to choose a political leader?"
+    ],
+    "correct_index": 2
+  },
+  {
+    "id": 28,
+    "word": "overdue taxes",
+    "synonym": "taxes that were not paid on time",
+    "sentence": "Do you owe any overdue taxes to federal or state government?",
+    "equivalent_sentence": "Do you owe any taxes that were not paid on time?",
+    "audio_file": "overdue_taxes_en.mp3",
+    "choices": [
+      "Do you owe any taxes that were not paid on time?",
+      "Did you print out your tax return transcripts using the IRS portal?",
+      "Have you ever received cash assistance or temporary food stamps?"
+    ],
+    "correct_index": 0
+  },
+  {
+    "id": 29,
+    "word": "nonresident",
+    "synonym": "someone who does not live permanently in a specific location",
+    "sentence": "Have you ever filed a tax return as a nonresident?",
+    "equivalent_sentence": "Have you ever filed a tax return as someone who does not live permanently in that location?",
+    "audio_file": "nonresident_en.mp3",
+    "choices": [
+      "Have you ever changed jobs within your regional neighborhood area?",
+      "Have you ever filed a tax return as someone who does not live permanently in that location?",
+      "Have you always lived at your primary home address inside this state?"
+    ],
+    "correct_index": 1
+  },
+  {
+    "id": 30,
+    "word": "alien",
+    "synonym": "someone who is not a United States citizen",
+    "sentence": "Were you ever an alien traveling outside the country?",
+    "equivalent_sentence": "Were you ever someone who is not a United States citizen traveling outside the country?",
+    "audio_file": "alien_en.mp3",
+    "choices": [
+      "Were you ever an authorized supervisor working for security services?",
+      "Were you ever someone who is not a United States citizen traveling outside the country?",
+      "Did you bring alternative identification cards to the office window today?"
+    ],
+    "correct_index": 1
+  },
+  {
+    "id": 31,
+    "word": "overthrow",
+    "synonym": "to remove a government using force",
+    "sentence": "Have you ever advocated the overthrow of any government?",
+    "equivalent_sentence": "Have you ever advocated removing a government using force?",
+    "audio_file": "overthrow_en.mp3",
+    "choices": [
+      "Have you ever selected a brand new mayor during a regional election?",
+      "Have you ever advocated removing a government using force?",
+      "Did you type your complete first name onto the digital stylus screen?"
+    ],
+    "correct_index": 1
+  },
+  {
+    "id": 32,
+    "word": "unconstitutional means",
+    "synonym": "methods that go directly against the constitution",
+    "sentence": "He tried to change the system by unconstitutional means.",
+    "equivalent_sentence": "He tried to change the system by methods that go directly against the constitution.",
+    "audio_file": "unconstitutional_means_en.mp3",
+    "choices": [
+      "He tried to change the system by methods that go directly against the constitution.",
+      "He tried to follow every single local traffic regulation safely.",
+      "He wanted to study extra historical items regarding the legislative branch."
+    ],
+    "correct_index": 0
+  },
+  {
+    "id": 33,
+    "word": "weapon",
+    "synonym": "an object like a knife or a gun",
+    "sentence": "Did you ever carry or sell an illegal weapon?",
+    "equivalent_sentence": "Did you ever carry or sell an illegal object like a knife or a gun?",
+    "audio_file": "weapon_en.mp3",
+    "choices": [
+      "Did you check your current application status block on the portal?",
+      "Did you ever carry or sell an illegal object like a knife or a gun?",
+      "Have you ever requested a formal transcript document from your school?"
+    ],
+    "correct_index": 1
+  },
+  {
+    "id": 34,
+    "word": "torture",
+    "synonym": "to purposely cause severe physical pain to someone",
+    "sentence": "Have you ever been involved in the torture of any person?",
+    "equivalent_sentence": "Have you ever been involved in purposely causing severe physical pain to someone?",
+    "audio_file": "torture_en.mp3",
+    "choices": [
+      "Have you ever been involved in purposely causing severe physical pain to someone?",
+      "Did you ever help an individual cross a border gate layout track?",
+      "Have you ever been a full-time receptionist inside a busy commercial site?"
+    ],
+    "correct_index": 0
+  },
+  {
+    "id": 35,
+    "word": "genocide",
+    "synonym": "killing a whole group of people because of race or religion",
+    "sentence": "Did you ever participate in a group involved in genocide?",
+    "equivalent_sentence": "Did you ever participate in a group involved in killing a whole group of people because of race or religion?",
+    "audio_file": "genocide_en.mp3",
+    "choices": [
+      "Did you ever follow a required safety instruction during a crisis?",
+      "Did you assist people in processing standard employment paperwork?",
+      "Did you ever participate in a group involved in killing a whole group of people because of race or religion?"
+    ],
+    "correct_index": 2
+  },
+  {
+    "id": 36,
+    "word": "kill",
+    "synonym": "to cause a person to die",
+    "sentence": "Have you ever committed an act intended to kill someone?",
+    "equivalent_sentence": "Have you ever committed an act intended to cause a person to die?",
+    "audio_file": "kill_en.mp3",
+    "choices": [
+      "Have you ever committed an act intended to cause a person to die?",
+      "Have you ever dialed emergency tracking numbers after an accident scene?",
+      "Did you operate a heavy machinery vehicle across regional state borders?"
+    ],
+    "correct_index": 0
+  },
+  {
+    "id": 37,
+    "word": "prison or jail",
+    "synonym": "a place where police keep people who are arrested",
+    "sentence": "Have you ever been confined in a prison or jail?",
+    "equivalent_sentence": "Have you ever been confined in a place where police keep people who are arrested?",
+    "audio_file": "prison_or_jail_en.mp3",
+    "choices": [
+      "Have you ever visited a municipal building to pay for property permits?",
+      "Have you ever been confined in a place where police keep people who are arrested?",
+      "Did you manage a retail store operations branch in your home town?"
+    ],
+    "correct_index": 1
+  },
+  {
+    "id": 38,
+    "word": "detention facility",
+    "synonym": "a secure place where people are forced to stay",
+    "sentence": "Were you ever a worker or a guard in a detention facility?",
+    "equivalent_sentence": "Were you ever a worker or a guard in a secure place where people are forced to stay?",
+    "audio_file": "detention_facility_en.mp3",
+    "choices": [
+      "Were you ever a worker or a guard in a secure place where people are forced to stay?",
+      "Did you ever apply for a seasonal tourist visa at a foreign consulate?",
+      "Have you ever reviewed your digital configuration settings array online?"
+    ],
+    "correct_index": 0
+  },
+  {
+    "id": 39,
+    "word": "labor camp",
+    "synonym": "a place where people are forced to do hard work",
+    "sentence": "Disclose if you have ever been associated with a labor camp.",
+    "equivalent_sentence": "Disclose if you have ever been associated with a place where people are forced to do hard work.",
+    "audio_file": "labor_camp_en.mp3",
+    "choices": [
+      "State clearly if you have ever completed an apprenticeship contract.",
+      "Disclose if you have ever been associated with a place where people are forced to do hard work.",
+      "Tell the officer if you currently work at an industrial construction company."
+    ],
+    "correct_index": 1
+  },
+  {
+    "id": 40,
+    "word": "crime",
+    "synonym": "an illegal action that breaks a law",
+    "sentence": "Have you ever committed a crime for which you were not caught?",
+    "equivalent_sentence": "Have you ever committed an illegal action that breaks a law for which you were not caught?",
+    "audio_file": "crime_en.mp3",
+    "choices": [
+      "Have you ever requested a sentence repetition from the screen interface?",
+      "Have you ever committed an illegal action that breaks a law for which you were not caught?",
+      "Did you verify your email confirmation code on the validation block?"
+    ],
+    "correct_index": 1
+  },
+  {
+    "id": 41,
+    "word": "offense",
+    "synonym": "a minor crime or breaking of a simple rule",
+    "sentence": "The candidate had no serious offense on his public record.",
+    "equivalent_sentence": "The candidate had no serious minor crime or breaking of a simple rule on his public record.",
+    "audio_file": "offense_en.mp3",
+    "choices": [
+      "The candidate had no serious minor crime or breaking of a simple rule on his public record.",
+      "The applicant achieved a perfect score on the verbal reading assessment.",
+      "The applicant brought original certified certificates from the archive."
+    ],
+    "correct_index": 0
+  },
+  {
+    "id": 42,
+    "word": "arrested",
+    "synonym": "caught and held by the police",
+    "sentence": "Have you ever been arrested anywhere in the world?",
+    "equivalent_sentence": "Have you ever been caught and held by the police anywhere in the world?",
+    "audio_file": "arrested_en.mp3",
+    "choices": [
+      "Have you ever replaced an expired license plate tag at the counter?",
+      "Have you ever spoken face-to-face with a regional field supervisor?",
+      "Have you ever been caught and held by the police anywhere in the world?"
+    ],
+    "correct_index": 2
+  },
+  {
+    "id": 43,
+    "word": "cited",
+    "synonym": "given an official ticket or summons by the police",
+    "sentence": "Have you ever been cited for breaking a moving vehicle law?",
+    "equivalent_sentence": "Have you ever been given an official ticket or summons by the police for breaking a moving vehicle law?",
+    "audio_file": "cited_en.mp3",
+    "choices": [
+      "Have you ever been given an official ticket or summons by the police for breaking a moving vehicle law?",
+      "Did you order your current tax transcripts directly from the IRS portal?",
+      "Have you ever updated your biological status cards at a regional center?"
+    ],
+    "correct_index": 0
+  },
+  {
+    "id": 44,
+    "word": "confined",
+    "synonym": "jailed or kept locked inside a closed area",
+    "sentence": "The person was confined after breaking the law.",
+    "equivalent_sentence": "The person was jailed or kept locked inside a closed area after breaking the law.",
+    "audio_file": "confined_en.mp3",
+    "choices": [
+      "The person was asked to add print letters to the tablet input.",
+      "The person was jailed or kept locked inside a closed area after breaking the law.",
+      "The person was allowed to request an additional dictation loop."
+    ],
+    "correct_index": 1
+  },
+  {
+    "id": 45,
+    "word": "prostitution",
+    "synonym": "having or offering sex in exchange for money",
+    "sentence": "Have you ever been involved in prostitution?",
+    "equivalent_sentence": "Have you ever been involved in having or offering sex in exchange for money?",
+    "audio_file": "prostitution_en.mp3",
+    "choices": [
+      "Have you ever filed a joint legal tax document with your current spouse?",
+      "Have you ever been involved in having or offering sex in exchange for money?",
+      "Did you support your parents financially in your country of origin?"
+    ],
+    "correct_index": 1
+  },
+  {
+    "id": 46,
+    "word": "smuggle",
+    "synonym": "to bring something secretly and illegally into a country",
+    "sentence": "Did anyone help smuggle illegal items across the border?",
+    "equivalent_sentence": "Did anyone help bring something secretly and illegally into a country across the border?",
+    "audio_file": "smuggle_en.mp3",
+    "choices": [
+      "Did anyone help bring something secretly and illegally into a country across the border?",
+      "Did you declare all currency savings when checking in at security?",
+      "Have you always maintained a clean driving verification record?"
+    ],
+    "correct_index": 0
+  },
+  {
+    "id": 47,
+    "word": "narcotics",
+    "synonym": "illegal drugs like heroin or cocaine",
+    "sentence": "Have you ever sold or manufactured illegal narcotics?",
+    "equivalent_sentence": "Have you ever sold or manufactured illegal drugs like heroin or cocaine?",
+    "audio_file": "narcotics_en.mp3",
+    "choices": [
+      "Have you ever worked as a medical technician inside a hospital facility?",
+      "Have you ever sold or manufactured illegal drugs like heroin or cocaine?",
+      "Did you bring official translation documents to your appointment desk?"
+    ],
+    "correct_index": 1
+  },
+  {
+    "id": 48,
+    "word": "drug paraphernalia",
+    "synonym": "equipment used to produce or consume illegal drugs",
+    "sentence": "He was caught carrying clear drug paraphernalia.",
+    "equivalent_sentence": "He was caught carrying clear equipment used to produce or consume illegal drugs.",
+    "audio_file": "drug_paraphernalia_en.mp3",
+    "choices": [
+      "He was caught trying to bypass a terminal identity confirmation check.",
+      "He was caught trying to write script characters on a stylus panel.",
+      "He was caught carrying clear equipment used to produce or consume illegal drugs."
+    ],
+    "correct_index": 2
+  },
+  {
+    "id": 49,
+    "word": "obtain immigration benefit",
+    "synonym": "to secure a visa green card or legal entry status",
+    "sentence": "Did you make a false statement to obtain an immigration benefit?",
+    "equivalent_sentence": "Did you make a false statement to secure a visa green card or legal entry status?",
+    "audio_file": "obtain_immigration_benefit_en.mp3",
+    "choices": [
+      "Did you make a false statement to secure a visa green card or legal entry status?",
+      "Did you complete an official change of address checklist on the web?",
+      "Have you ever sponsored an immediate family relative for resident status?"
+    ],
+    "correct_index": 0
+  }
+]
