@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "reading_prompt": "Who can vote?",
+    "writing_sentence": "Citizens can vote.",
+    "category": "sentence_practice"
+  },
+  {
+    "id": 2,
+    "reading_prompt": "When is Thanksgiving?",
+    "writing_sentence": "Thanksgiving is in November.",
+    "category": "sentence_practice"
+  },
+  {
+    "id": 3,
+    "reading_prompt": "What state has the most people?",
+    "writing_sentence": "California has the most people.",
+    "category": "sentence_practice"
+  },
+  {
+    "id": 4,
+    "reading_prompt": "Where is the White House?",
+    "writing_sentence": "The White House is in Washington DC.",
+    "category": "sentence_practice"
+  },
+  {
+    "id": 5,
+    "reading_prompt": "How many Senators does Congress have?",
+    "writing_sentence": "Congress has 100 Senators.",
+    "category": "sentence_practice"
+  },
+  {
+    "id": 6,
+    "reading_prompt": "Who was the second President?",
+    "writing_sentence": "Adams was the second President.",
+    "category": "sentence_practice"
+  },
+  {
+    "id": 7,
+    "reading_prompt": "When is Labor Day?",
+    "writing_sentence": "Labor Day is in September.",
+    "category": "sentence_practice"
+  },
+  {
+    "id": 8,
+    "reading_prompt": "What was the first capital?",
+    "writing_sentence": "Philadelphia was the first capital.",
+    "category": "sentence_practice"
+  },
+  {
+    "id": 9,
+    "reading_prompt": "Who elects the Congress?",
+    "writing_sentence": "The citizens elect Congress.",
+    "category": "sentence_practice"
+  },
+  {
+    "id": 10,
+    "reading_prompt": "Where does Congress meet?",
+    "writing_sentence": "Congress meets in Washington.",
+    "category": "sentence_practice"
+  },
+  {
+    "id": 11,
+    "reading_prompt": "What country is north of the United States?",
+    "writing_sentence": "Canada is north of the United States.",
+    "category": "sentence_practice"
+  },
+  {
+    "id": 12,
+    "reading_prompt": "When is Independence Day?",
+    "writing_sentence": "Independence Day is in July.",
+    "category": "sentence_practice"
+  },
+  {
+    "id": 13,
+    "reading_prompt": "What is the largest state?",
+    "writing_sentence": "Alaska is the largest US state.",
+    "category": "sentence_practice"
+  },
+  {
+    "id": 14,
+    "reading_prompt": "Who was the Father of Our Country?",
+    "writing_sentence": "Washington was the Father of Our Country.",
+    "category": "sentence_practice"
+  },
+  {
+    "id": 15,
+    "reading_prompt": "When is Memorial Day?",
+    "writing_sentence": "Memorial Day is in May.",
+    "category": "sentence_practice"
+  },
+  {
+    "id": 16,
+    "reading_prompt": "What state has the most citizens?",
+    "writing_sentence": "California has the most citizens.",
+    "category": "sentence_practice"
+  },
+  {
+    "id": 17,
+    "reading_prompt": "Who lives in the White House?",
+    "writing_sentence": "The President lives in the White House.",
+    "category": "sentence_practice"
+  },
+  {
+    "id": 18,
+    "reading_prompt": "What country is south of the United States?",
+    "writing_sentence": "Mexico is south of the United States.",
+    "category": "sentence_practice"
+  },
+  {
+    "id": 19,
+    "reading_prompt": "When do we elect the President?",
+    "writing_sentence": "We elect the President in November.",
+    "category": "sentence_practice"
+  },
+  {
+    "id": 20,
+    "reading_prompt": "What is the capital of the United States?",
+    "writing_sentence": "Washington DC is the capital of the United States.",
+    "category": "sentence_practice"
+  },
+  {
+    "id": 21,
+    "reading_prompt": "Who has the right to vote?",
+    "writing_sentence": "Citizens have the right to vote.",
+    "category": "sentence_practice"
+  },
+  {
+    "id": 22,
+    "reading_prompt": "When is Flag Day?",
+    "writing_sentence": "Flag Day is in June.",
+    "category": "sentence_practice"
+  },
+  {
+    "id": 23,
+    "reading_prompt": "What do we pay to the government?",
+    "writing_sentence": "We have to pay taxes to the government.",
+    "category": "sentence_practice"
+  },
+  {
+    "id": 24,
+    "reading_prompt": "Who was Abraham Lincoln?",
+    "writing_sentence": "Lincoln was a President of the United States.",
+    "category": "sentence_practice"
+  },
+  {
+    "id": 25,
+    "reading_prompt": "When is Citizens Day?",
+    "writing_sentence": "Citizens Day is in September.",
+    "category": "sentence_practice"
+  }
+]
